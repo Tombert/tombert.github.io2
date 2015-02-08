@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "I got my custom domain working. "
-date:   2015-02-07 17:46:32
+date:   2015-02-08 16:46:32
 ---
 
 I'm definitely not an ops guy.  
