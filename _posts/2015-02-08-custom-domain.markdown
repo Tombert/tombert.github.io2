@@ -10,5 +10,5 @@ It's weird, I tend to think I'm pretty proficient with Linux, but then something
 
 Something like this is always humbling.  It's easy to get into the "I know everything" mindset, and it takes a few "oh god I'm an idiots" to correct for it. 
 
-Anyway, (gebert.sexy)[http://www.gebert.sexy] works now.  No more paying for hosting!
+Anyway, [gebert.sexy](http://www.gebert.sexy) works now.  No more paying for hosting!
 
