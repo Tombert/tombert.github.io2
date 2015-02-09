@@ -16,6 +16,15 @@ layout: default
         </h2>
       </li>
     {% endfor %}
+
+      {% if paginator.page != 1 %}
+    <a class="" href="{{paginator.previous_page_path}}">Previous Page</a> 
+      {% endif %}
+
+
+{% if paginator.page != paginator.total_pages %}
+<a class="" href="{{paginator.next_page_path}}">Next Page</a>
+{% endif %}
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

@@ -10,3 +10,4 @@ github_username:  tombert
 
 # Build settings
 markdown: kramdown
+paginate: 10
