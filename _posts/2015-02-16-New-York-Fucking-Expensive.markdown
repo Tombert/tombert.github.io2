@@ -4,7 +4,7 @@ title:  "New York is Fucking Expensive."
 date:   2015-02-16 23:29:40
 ---
 
-So in my last post I talked about how I got my dream job, living in New York, working as a researcher, blah blah blah.  It wasn't a really good article, too emotional.  Well, no, not too emotional, that works ok, but emotional in the sappy-happy-Hollywood-ending kind of way, which is annoying.  It certainly needed some more swear words and cynicism. 
+So in my last post I talked about how I got my dream job, living in New York, working as a researcher, blah blah blah.  It wasn't a really good article, way too emotional.  Well, no, not too emotional, that works ok, but emotional in the sappy-happy-Hollywood-ending kind of way, which is annoying.  It certainly needed some more swear words and cynicism. 
 
 But the cynicism wasn't readily apparent when I wrote that article.  It really did feel like my dreams came true, with the only thing missing was Bruce Willis busting into my apartment and carrying me away on a firehose, but I recently found out something that should have been apparent from the get-go: 
 
