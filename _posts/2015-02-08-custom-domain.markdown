@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "I got my custom domain working. "
 date:   2015-02-08 16:46:32
 ---
