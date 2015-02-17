@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Trying out Jekyll"
 date:   2015-02-07 17:46:32
 ---
