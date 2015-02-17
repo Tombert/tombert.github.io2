@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "New York is Fucking Expensive."
 date:   2015-02-16 23:29:40
 ---
