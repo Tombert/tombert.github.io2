@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Dream Job. "
 date:   2015-02-09 23:29:40
 ---
