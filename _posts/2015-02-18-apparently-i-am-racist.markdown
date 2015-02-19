@@ -31,7 +31,7 @@ So after my comment, some dude comments explaning that me sticking up for Charli
 
 ### So I do what anyone would do in my situation: I read a fucking dictionary.  
 
-> racism
+> racism: 
 
 > The belief that all members of each race possess characteristics or abilities specific to that race, especially so as to distinguish it as inferior or superior to another race or races.
 -- [Oxford Dictionary](http://www.oxforddictionaries.com/us/definition/american_english/racism?searchDictCode=all)
