@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Apparently, I'm a racist."
-date:   2015-02-16 23:29:40
+date:   2015-02-18 23:29:40
 ---
 
 My friends might have noticed that I deleted my Facebook account, and might be even more surprised to find out that I have zero intention of bringing it back. 
@@ -19,7 +19,10 @@ And here is the obligatory-though-annoying disclaimer that I have to put wheneve
 
 Ok, got that out of the way.  You fucking overly literal and underappreciating morons can stop leaving me comments telling me how sexist I am, and and you can go living your boring lives on Twitter because thinking of something that takes more than one-hundred-forty characters is too difficult.  
 
-Seriously, you guys need to learn how to read subtext.  Get off of Twitter and read a fucking book, or at least a god-damned [Cracked](http://www.cracked.com) article. 
+Seriously, you guys need to learn h<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/bluebird/2.9.9/bluebird.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/3.2.0/lodash.min.js"></script>
+ow to read subtext.  Get off of Twitter and read a fucking book, or at least a god-damned [Cracked](http://www.cracked.com) article. 
 
 Anyway, rambling aside, I commented on someone's thread on Facebook.  I can't remember the exact wording, but it had something to do with the "Je Suis Charlie" thing and how apparently they were racist. 
 

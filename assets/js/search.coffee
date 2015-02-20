@@ -26,6 +26,7 @@ $ ->
                         $('#results').empty()
                         _.each htmlItems, (i) ->
                                 $('#results').append($(i))
+                                
         getSearchParam = -> $("#searchParam").val()
                 
         $("#submit").click(_.compose(lookup, getSearchParam))
