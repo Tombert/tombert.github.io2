@@ -1,7 +1,6 @@
 ---
 ---
 $ ->
-
         lookup = (lookupText) ->
                 Promise.resolve($.get '/feed.xml')
                 .then (data) ->
@@ -15,9 +14,11 @@ $ ->
                 .then (items) ->
                         _.map items, (i) ->
                                 index = i.description.toLowerCase().indexOf lookupText.toLowerCase()
+                                phrase = i.description.substr(index, lookupText.length)
+                                boldPhrase = "<strong>#{phrase}</strong>"
+                                i.description = i.description.substr(0, index) + boldPhrase + i.description.substr(index + phrase.length)
                                 i.description = "..." + i.description.substring((index - 40), (index + 40)) + "..."
                                 return i
-                                
                 .then (items) ->
                         htmlItems = _.map items, (item) ->
                                 "<div class=\"search_item\"><a href=\"#{item.link}\"><h4>#{item.title}</h4></a><div>#{item.description}</div></div>"
