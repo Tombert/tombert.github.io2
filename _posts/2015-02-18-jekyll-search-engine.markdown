@@ -4,7 +4,7 @@ comments: true
 title:  "Writing a very basic search engine for Jekyll...no plugins required"
 date:   2015-02-19 21:37:40
 ---
-I've had pretty good success overall using the Jekyll blogging engine.  I was a little skeptical about everything being static at first, but it's turned out to be a pretty sexy little blogging engine, and the fact that it's static makes things pretty nice. 
+I've had pretty good success using the Jekyll blogging engine.  I was a little skeptical about everything being static at first, but it's turned out to be a pretty sexy little blogging engine, and the fact that it's static makes things pretty nice. 
 
 However, there are some features with dynamic sites that are taken for granted, such as doing simple searches on the posts. 
 
