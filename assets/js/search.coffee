@@ -13,7 +13,6 @@ $ ->
                         _.filter items, (i) -> (i.description.toLowerCase().indexOf(do lookupText.toLowerCase) > -1 or i.title.toLowerCase().indexOf(lookupText.toLowerCase()) > -1 )
                 .then (items) ->
                         _.map items, (i) ->
-                                i.description = $(i.description).text().replace( /\s\s+/g, ' ' )
                                 index = i.description.toLowerCase().indexOf lookupText.toLowerCase()
                                 phrase = i.description.substr(index, lookupText.length)
                                 boldPhrase = "<strong>#{phrase}</strong>"
