@@ -14,8 +14,9 @@ $ ->
                 .then (items) ->
                         _.map items, (i) ->
                                 index = i.description.toLowerCase().indexOf lookupText.toLowerCase()
-                                phrase = $(i.description.substr(index, lookupText.length)).text()..replace( /\s\s+/g, ' ' )
+                                phrase = i.description.substr(index, lookupText.length)
                                 boldPhrase = "<strong>#{phrase}</strong>"
+                                i.description = $(i.description).text().replace( /\s\s+/g, ' ' )
                                 i.description = i.description.substr(0, index) + boldPhrase + i.description.substr(index + phrase.length)
                                 i.description = "..." + i.description.substring((index - 40), (index + 40)) + "..."
                                 return i
