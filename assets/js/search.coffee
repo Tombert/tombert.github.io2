@@ -28,7 +28,9 @@ $ ->
                         _.each htmlItems, (i) ->
                                 $('#results').append($(i))
                                 
-        getSearchParam = -> $("#searchParam").val()
+        getSearchParam = (e) -> 
+                e.preventDefault()
+                $("#searchParam").val()
                 
         $("#searching").submit(_.compose(lookup, getSearchParam))
 
