@@ -25,7 +25,7 @@ Anyway, rambling aside, I commented on someone's thread on Facebook.  I can't re
 
 I commented explaning that I kind of think it's irrelevant to whether or not the *Charlie Hebdo* dudes were racist: the "Je Suis Charlie" thing was about free speech, both good and bad.  
 
-Something I've learned about modern feminism is that they *hate* the fact that this country has free speech.  They hate that the Klan members are allowed the same rights that everyone else is, they hate that a Neo-Nazi member can give his bullshit agenda, and they *hate* that people can espouse a viewpoint that disagrees with theirs.  
+Something I've learned about modern feminists is that they *hate* free speech.  They hate that the Klan members are allowed the same rights that everyone else is, they hate that a Neo-Nazi member can give his bullshit agenda, and they *hate* that people can espouse a viewpoint that disagrees with theirs.  
 
 So after my comment, some dude comments explaning that me sticking up for Charlie Hebdo makes me a racist, since I'm white, and black guys can't be racist because they are the oppressed group.  
 
