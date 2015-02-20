@@ -30,6 +30,6 @@ $ ->
                                 
         getSearchParam = -> $("#searchParam").val()
                 
-        $("#searching").click(_.compose(lookup, getSearchParam))
+        $("#searching").submit(_.compose(lookup, getSearchParam))
 
 
