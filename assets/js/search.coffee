@@ -25,8 +25,10 @@ $ ->
                                 "<div class=\"search_item\"><a href=\"#{item.link}\"><h4>#{item.title}</h4></a><div>#{item.description}</div></div>"
                 .then (htmlItems) ->
                         $('#results').empty()
-                        _.each htmlItems, (i) ->
-                                $('#results').append($(i))
+                        if htmlItems.length > 0
+                                _.each htmlItems, (i) -> $('#results').append($(i))
+                        else 
+                                $('#results').append($("<h3> There were no articles that have the phrase #{lookupText} </h3>"))
                                 
         getSearchParam = (e) -> 
                 e.preventDefault()
