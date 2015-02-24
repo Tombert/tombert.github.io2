@@ -11,3 +11,6 @@ comments: true
 # Build settings
 markdown: kramdown
 paginate: 10
+gems:
+- jemoji
+- jekyll-sitemap
