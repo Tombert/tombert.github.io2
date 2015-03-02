@@ -7,7 +7,7 @@ comments: true
 
 I have spent the last four days in New York, not for vacation, not for work, but for scouting out apartments.
 
-It's one of thsoe things that they don't like to mention in movies accurately.  In fairness, I'm not sure there's a particularly good way to express "GOOD FUCKING SANTA, A SODA COST HOW MUCH?!", but perhaps that's something Hollywood could work on to de-romanticize the city for us suburban folks.
+It's one of those things that they don't like to mention in movies accurately.  In fairness, I'm not sure there's a particularly good way to express "GOOD FUCKING SANTA, A SODA COST HOW MUCH?!", but perhaps that's something Hollywood could work on to de-romanticize the city for us suburban folks.
 
 Actually, I'm not sure even that would have worked, I love this city.  As I've said before, and I'll say again: It's where shit goes to happen.
 
