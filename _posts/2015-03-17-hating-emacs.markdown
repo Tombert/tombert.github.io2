@@ -5,7 +5,7 @@ title:  "Annoyances with Emacs."
 date:   2015-03-17 21:04:20
 ---
 
-Emacs has been "that editor I've always used" for me, and for the most part, it has been fine. It's fast, it's relatively easy to pick up, and it has a really robust, decent plugin architecture that allows for adding just about any feature you could possibly imagine.  There's not doubt that it has contributed immensly to what success I've had in my life, and I certainly wouldn't be as good of a programmer without it. 
+Emacs has been "that editor I've always used" for me, and for the most part, it has been fine. It's fast, it's relatively easy to pick up, and it has a really robust, decent plugin architecture that allows for adding just about any feature you could possibly imagine.  There's no doubt that it has contributed immensly to what success I've had in my life, and I certainly wouldn't be as good of a programmer without it. 
 
 ### So why is it starting to drive me crazy?
 
