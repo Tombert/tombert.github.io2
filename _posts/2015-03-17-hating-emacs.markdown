@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  ""
+title:  "Annoyances with Emacs."
 date:   2015-03-17 21:04:20
 ---
 
