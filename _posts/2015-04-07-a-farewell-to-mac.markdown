@@ -5,7 +5,7 @@ title:  "A Farewell to Mac"
 date:   2015-04-07 23:36:32
 ---
 
-The day was young, and I arrived at work early.  After recovering from a recent bout of food poisoning, my mental state was fair from perfect, but it didn't feel like it was limiting my abilities, and I sit, doing work, listening to NOFX, sipping on a Diet Coke in the process.  
+The day was young, and I arrived to work early.  After recovering from a recent bout of food poisoning, my mental state was far from perfect, but it didn't feel like it was limiting my abilities, and I sit, doing work, listening to NOFX, sipping on a Diet Coke in the process.  
 
 A coworker arrives, and this job being relatively close knit, the greeting devolves into a conversation, and a relatively hearty one at-that, so I put my drink down, and embrace the fact that I won't be working for a bit.  
 
