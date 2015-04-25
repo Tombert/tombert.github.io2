@@ -1,0 +1,26 @@
+---
+layout: post
+comments: true
+title:  "Insomnia-induced Java Introspection"
+date:   2015-04-25 01:14:32
+---
+
+Increasingly, I'm wondering how any fucking sane person could ever conceivably use the Java programming language. In the farther reaches of my formerly-lucid brain lies a remnant of nostalgia and genuine enjoyment I felt whilst writing it, but such emotions have been drowned by years of cynicism and anger. 
+
+I know that bitching about Java on the internet is about as original as jokes about airline food, so I won't belabor the point too much, but I always found Google's decision to utilize Java for the primary language for Android to be questionable at best. I mean, we have a multibillion dollar company that employs the creators of Python, B, and Unix.  Couldn't they have gotten them to *invent* a better language?  
+
+Oh wait, that's right, Google already *did* create a [better language](https://golang.org). 
+
+Go is far from a perfect language, and I don't think anyone claims it is, but it certainly makes more sense than fucking Java.  Instead of trying to follow some hierarchal inheritence pattern that [leads to logical problems later](http://en.wikipedia.org/wiki/Circle-ellipse_problem), it follows a simpler, better model. 
+
+The fucking irony of it all is that Go is actually better-suited for a phone an Java is.  It compiles to native code, with a substantially smaller runtime and garbage collector, and allows for pointers and memory management and all that shit that C programmers seem to think is really important.  
+
+And the thing is, Google isn't stupid; there most certainly had to be a reason for them choosing a shitty language like Java. 
+
+It's entirely possible that Google knew that, like it or not, there are a shitload of Java developers out there, and having them on their side would lead to a lot of apps made quickly, but I'm not sure that logic necessarily follows.  No sane person knew Objective C before the iPhone was released, but there was almost no trouble get people to write apps for it. 
+
+I wonder if the main appeal was more of a signal to the world: the desktop has suddenly gone mobile.  
+
+Before Android, people wrote cellphone applications in assembly or the shitty JavaME framework. I'm suspecting that the choice of Dalvik was to show that suddenly, you didn't have to hold back, you could use the full JDK, and it would happily work on nearly any other Android device properly.  It was about making the *transition* easy, not the application development itself. 
+
+I don't know where the fuck I'm going with this.  It's not very well written, don't bother reading it. 
