@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title and !page.private %}
+          {% if page.title and page.private != true %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
