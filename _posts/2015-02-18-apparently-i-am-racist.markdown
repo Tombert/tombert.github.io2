@@ -38,7 +38,7 @@ So after my comment, some dude comments explaning that me sticking up for Charli
 > The belief that all members of each race possess characteristics or abilities specific to that race, especially so as to distinguish it as inferior or superior to another race or races.
 -- [Oxford Dictionary](http://www.oxforddictionaries.com/us/definition/american_english/racism?searchDictCode=all)
 
-I thought I had a smoking gun.  I thought that the guy was going to read that, apologize, and amend what he said to something a bit more applicable, since I certainly say anything that would indicate I thought any less of any different races. I now think that I am stupid for ever expecting a moron to say anything that was not moronic. 
+I thought I had a smoking gun.  I thought that the guy was going to read that, apologize, and amend what he said to something a bit more applicable, since I certainly didn't say anything that would indicate I thought any less of any different races. I now think that I am stupid for ever expecting a moron to say anything that was not moronic. 
 
 The guy responds back with something along the lines of "This just proves my point because you're using a racist definition of the word". You heard right people: 
 
