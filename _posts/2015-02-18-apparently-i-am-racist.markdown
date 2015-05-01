@@ -54,6 +54,6 @@ The word "racist" has an implicit negative connotation, so much that if you are 
 
 See, if he can redefine words, it's not hard to call me something horrible like "racist", because he can make me (at least loosely) fit into it.  Then the nuanced negativity of the word can do the rest: no one takes you seriously after that.  
 
-After I realized that, I realized that this is pointless. I'm getting upset with someone who cares more about winning an argument on facebook than he does about being honest, and people like that (just like marketing people) simply aren't worth my (admittedly pretty worthless) time, and with that I deleted my account.  
+And once that thought hit me, I realized that this is pointless. I'm getting upset with someone who cares more about winning an argument on facebook than he does about being honest, and people like that (just like marketing people) simply aren't worth my (admittedly pretty worthless) time, and with that I deleted my account.  
 
 I will not be back on Facebook any time soon, but this entire thing has given me an idea on a new personal project. 
