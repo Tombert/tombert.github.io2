@@ -38,7 +38,7 @@ So after my comment, some dude comments explaning that me sticking up for Charli
 > The belief that all members of each race possess characteristics or abilities specific to that race, especially so as to distinguish it as inferior or superior to another race or races.
 -- [Oxford Dictionary](http://www.oxforddictionaries.com/us/definition/american_english/racism?searchDictCode=all)
 
-I thought I had a smoking gun.  I thought that the guy was going to read that, apologize, and amend what he said to something a bit more applicable, since I certainly say anything that would indicate I thought any less of any different races. I now think that I am stupid for ever expecting a moron to say anything that was not moronic. 
+I thought I had a smoking gun.  I thought that the guy was going to read that, apologize, and amend what he said to something a bit more applicable, since I certainly didn't say anything that would indicate I thought any less of any different races. I now think that I am stupid for ever expecting a moron to say anything that was not moronic. 
 
 The guy responds back with something along the lines of "This just proves my point because you're using a racist definition of the word". You heard right people: 
 
@@ -54,6 +54,6 @@ The word "racist" has an implicit negative connotation, so much that if you are 
 
 See, if he can redefine words, it's not hard to call me something horrible like "racist", because he can make me (at least loosely) fit into it.  Then the nuanced negativity of the word can do the rest: no one takes you seriously after that.  
 
-After I realized that, I realized that this is pointless. I'm getting upset with someone who cares more about winning an argument on facebook than he does about being honest, and people like that (just like marketing people) simply aren't worth my (admittedly pretty worthless) time, and with that I deleted my account.  
+And once that thought hit me, I realized that this is pointless. I'm getting upset with someone who cares more about winning an argument on facebook than he does about being honest, and people like that (just like marketing people) simply aren't worth my (admittedly pretty worthless) time, and with that I deleted my account.  
 
 I will not be back on Facebook any time soon, but this entire thing has given me an idea on a new personal project. 
