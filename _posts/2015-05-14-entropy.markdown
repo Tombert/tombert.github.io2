@@ -19,7 +19,7 @@ Here's the basic rundown.
 
 Entropy can mean a lot of things, but for the sake of this article, let's assume it means "chaos". For a password, at least theoretically speaking, we want the most chaotic thing possible; after all, chaos is inherently unpredictable. 
 
-We can actually measure entropy in bits.  Simply put, it's the number of possible combinations of a set of characters.  For example, if I only allowed two bits for a password (for some reason I cannot completely fathom while sober), then that would only be \$ 2^2 \$ possible combinations, which would be piss-poor, not very chaotic at all. 
+We can actually measure entropy in bits.  Simply put, it's the number of possible combinations of a set of characters.  For example, if I only allowed two bits for a password (for some reason I cannot completely fathom while sober), then that would only be *4*  possible combinations, which would be piss-poor, not very chaotic at all. 
 
 So how do we go about maximizing entropy? 
 
@@ -31,9 +31,9 @@ $$
 H = l \log_2 m
 $$ 
 
-Where \( H \) is the bits of entropy, \( l \) is the length of the password, and \( m \)  is the potential alphabet.
+Where  *H* is the bits of entropy, *l* is the length of the password, and *m*  is the potential alphabet.
 
-This should be pretty straightforward.  You need the \( log_2 x \) number of bits to represent any given number on a computer, and we multiply the complexity by how many characters we have. 
+This should be pretty straightforward.  You need the *log_2 x* number of bits to represent any given number on a computer, and we multiply the complexity by how many characters we have. 
 
 Let's assume we have a password using the Base64 alphabet. We can happily plug into our formula: 
 
