@@ -1,0 +1,58 @@
+---
+layout: post
+comments: true
+title:  "How to tell the security level of your password. "
+date:   2015-05-14 01:14:32
+---
+
+Awhile ago, I remember my Gmail account was hacked because I used a single word for the password. 
+
+Even at the time, I knew it was stupid; everyone knows that you don't just use a *word* for a password, you use a clustefuck of different symbols that are unmemorable and hard to guess and all that fun stuff security junkies like to masturbate to. 
+
+And there's an obvious intiutiveness to this: if your password is hard to guess, then it's hard for someone to guess their way into your nudy photos and secret conspiracies.  
+
+But I was always curious to what makes a password secure.  What makes adding extra symbols make your password automatically more secure?  How does adding a number and a capital letter to the mix magically make your account hack proof.
+
+Here's the basic rundown. 
+
+### Entropy
+
+Entropy can mean a lot of things, but for the sake of this article, let's assume it means "chaos". For a password, at least theoretically speaking, we want the most chaotic thing possible; after all, chaos is inherently unpredictable. 
+
+We can actually measure entropy in bits.  Simply put, it's the number of possible combinations of a set of characters.  For example, if I only allowed two bits for a password (for some reason I cannot completely fathom while sober), then that would only be $ 2^2 $ possible combinations, which would be piss-poor, not very chaotic at all. 
+
+So how do we go about maximizing entropy? 
+
+### Calculating Entropy
+
+It'd be smart to have an entropy level at 100+, which would be hard for even supercomputers to brute-force. All this can be represented by this simple formula: 
+
+$$
+H = l \log_2 m
+$$ 
+
+Where $ H $ is the bits of entropy, $ l $ is the length of the password, and $ m $ is the potential alphabet.
+
+This should be pretty straightforward.  You need the $ log_2 x $ number of bits to represent any given number on a computer, and we multiply the complexity by how many characters we have. 
+
+Let's assume we have a password using the Base64 alphabet. We can happily plug into our formula: 
+$$
+100 = l \log_2 64
+$$ 
+
+$$
+\frac {100} {6} = l 
+$$ 
+
+$$
+l = 16.666...
+\lceil l \rceil = 17
+$$
+
+As you can see, since we can't have 2/3 of a character, we round up.  As such, it requires 17 or more characters to have an entropy of 100 bits while restricting yourself to a Base64 alphabet.
+
+----
+
+This is all predicated on passwords being randomly generated; most aren't.  I think that this should still all be considered before choosing a password. 
+
+Now just try and resist the urge to go and change all your passwords. 
