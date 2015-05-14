@@ -7,7 +7,7 @@ date:   2015-05-14 01:14:32
 
 Awhile ago, I remember my Gmail account was hacked because I used a single word for the password. 
 
-Even at the time, I knew it was stupid; everyone knows that you don't just use a *word* for a password, you use a clustefuck of different symbols that are unmemorable and hard to guess and all that fun stuff security junkies like to masturbate to. 
+Even at the time, I knew it was stupid; everyone knows that you don't just use a *word* for a password, you use a clusterfuck of different symbols that are unmemorable and hard to guess and all that fun stuff security junkies like to masturbate to. 
 
 And there's an obvious intiutiveness to this: if your password is hard to guess, then it's hard for someone to guess their way into your nudy photos and secret conspiracies.  
 
