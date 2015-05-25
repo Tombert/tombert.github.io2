@@ -33,7 +33,7 @@ $$
 
 Where  *H* is the bits of entropy, *l* is the length of the password, and *m*  is the potential alphabet.
 
-This should be pretty straightforward.  You need the *log_2 x* number of bits to represent any given number on a computer, and we multiply the complexity by how many characters we have. 
+This should be pretty straightforward.  You need the *log_2 x* of a number to get the required amount bits to represent it on a computer, and we multiply the complexity by how many characters we have. 
 
 Let's assume we have a password using the Base64 alphabet. We can happily plug into our formula: 
 
