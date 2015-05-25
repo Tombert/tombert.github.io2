@@ -5,17 +5,17 @@ title:  "An Open Letter to the Android Game Development Community"
 date:   2015-05-25 12:14:02
 ---
 
-I, like any other sane human on the planet, shop a lot on Amazon.com.  This should be a surprise to exactly zero people reading this, but I confess; I order nearly everything I use. 
+I, like any other sane human on the planet, shop on Amazon.com a lot.  This should be a surprise to exactly zero of the people reading this, but I confess; I order nearly everything I use. 
 
-As a result, it's no shock to hear that I purchased an Amazon Fire TV for two reasons: a) To stream Netflix, and b) Amazon advertises pretty heavily that the device can be used as a game console, and even [started their own game studio](https://games.amazon.com) to promote it.  
+As a result, it's no shock to read that I purchased an Amazon Fire TV for two reasons: a) To stream Netflix, and b) Amazon advertises pretty heavily that the device can be used as a game console, and even [started their own game studio](https://games.amazon.com) to promote it.  
 
 The first game I purchased for the system was Goat Simulator, since I remember enjoying it a lot on PC, and almost immediately I was filled with disappointment. 
 
-The Android port of Goat Simulator is a fucking joke.  The fact that they have the nerve to charge the same price for this shitty-ass port is insulting, and I genuinely felt ripped off.  
+The Android port of Goat Simulator is a fucking joke.  The fact that they have the nerve to charge the same price for this shitty-ass port as its PC counterpart is insulting, and I genuinely felt ripped off.  
 
 Trying to remain positive, I purchased Deus Ex: The Fall, and was greeted with similarly awful results.   As a last-ditch effort, I downloaded the port of Oddworld: Stranger's Wrath, and was surprised that it is an absolutely competent port.  
 
-And that's the part that frustrates me and the rest of the Android community so much.  Games like Stranger's Wrath prove that Android *can* be used to produce a great game, but most developers don't seem to take the platform seriously. 
+And that's the part that frustrates me (and the rest of the Android community) so much.  Games like Stranger's Wrath prove that Android *can* be used to produce a great game, but most developers don't seem to take the platform seriously. 
 
 Now, on the phone, this is more tolerable.  You don't necessarily care about advanced 3D graphics when you're just playing a game for five minutes on the train, and that's understandable.  
 
