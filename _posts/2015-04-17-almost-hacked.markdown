@@ -31,8 +31,7 @@ curl "https://github.com/<username>.keys"
 
 This may seem horrifying, but keep in mind, all anyone can do with an SSH *public* key is grant access to stuff, so this actually isn't a security risk. Hell, [look at mine](https://github.com/tombert.keys).
 
-With this tool in hand, the hard part has been done.  Now we can use some good ol' Unix-glue to get everything going. 
-
+With this tool in hand, the hard part has been done.  Now we can use some good ol' Unix-glue to get everything going and write a basic script: 
 
 {% highlight bash %}
 #!/bin/bash
