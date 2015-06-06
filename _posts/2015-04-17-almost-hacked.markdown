@@ -5,9 +5,9 @@ title:  "How to Automate SSH Authorization"
 date:   2015-04-17 21:14:32
 ---
 
-There has been an active fight against the use of Skype as a general communication platform since its purchase by Microsoft.  My reasoning was simple: I was afraid that Microsoft would start to gimp the other platforms' clients, and that fear has largely come to pass, at least in the Linux world, and the wake of the takeover has led to a crash-prone and buggy platform that only exists for legacy reasons. 
+My brain has been enduring an active fight against the use of Skype as a general communication platform since its purchase by Microsoft.  My reasoning was simple: I was afraid that Microsoft would start to gimp the other platforms' clients, and that fear has largely come to pass, at least in the Linux world, and the wake of the takeover has led to a crash-prone and buggy platform that only exists for legacy reasons. 
 
-Due to this frustration, in addition to the 2013 leaks by Edward Snowden, has led me to start up an XMPP server.  Registration will be open soon, send me an email if you want access now.  
+This frustration, in addition to the 2013 leaks by Edward Snowden, has led me to start up an XMPP server.  Registration will be open soon, send me an email if you want access now.  
 
 Anyway, for reasons I won't fully understand, there was an attempted brute-force attack on my server from China, because everyone knows that a cheap five-dollar-a-month VPS is absolutely worth compromising, especially one as universally revered as "brucewillis.sexy". 
 
@@ -31,8 +31,7 @@ curl "https://github.com/<username>.keys"
 
 This may seem horrifying, but keep in mind, all anyone can do with an SSH *public* key is grant access to stuff, so this actually isn't a security risk. Hell, [look at mine](https://github.com/tombert.keys).
 
-With this tool in hand, the hard part has been done.  Now we can use some good ol' Unix-glue to get everything going. 
-
+With this tool in hand, the hard part has been done.  Now we can use some good ol' Unix-glue to get everything going and write a basic script: 
 
 {% highlight bash %}
 #!/bin/bash
