@@ -30,4 +30,4 @@ main = do
 
 Was this necessary?  Not really.  Is it cooler?  Absolutely!  I even improved it slightly by running requests in parallel. 
 
-I might start posting more of these; I'd like to see Haskell used for more shell stuff. 
+I might start posting more of these; I'd like to see Haskell used for more shell stuff. If you want to make a fix to this code, the Github page is [here](https://github.com/tombert/fetchkeys)
