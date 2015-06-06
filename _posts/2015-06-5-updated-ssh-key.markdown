@@ -5,7 +5,7 @@ title:  "A purer SSH-key getter. "
 date:   2015-06-05 12:14:02
 ---
 
-Awhile ago, I wrote an article about [how to automate the retrieval of SSH keys](/2015/04/17/almost-hacked.html).  That worked fine, there was nothing wrong with it, but I've been getting more into haskell, and I figured that Haskell-izing some shell-stuff would be a fun little project.  Subsequently, here's the updated script: 
+Awhile ago, I wrote an article about [how to automate the retrieval of SSH keys](/2015/04/17/almost-hacked.html).  That worked fine, there was nothing wrong with it, but I've been getting more into Haskell, and I figured that Haskell-izing some shell-stuff would be a fun little project.  Subsequently, here's the updated script: 
 
 {% highlight haskell%}
 module Main where
