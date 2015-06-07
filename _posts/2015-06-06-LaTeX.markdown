@@ -1,0 +1,39 @@
+---
+layout: post
+comments: true
+title:  "I'm a little late to the bandwagon, but I'm dumping office software."
+date:   2015-06-06 12:14:02
+---
+
+I attended the previous two Texas-Linuxfests, and had the pleasure of talking to a couple of the LibreOffice developers.  As a fan of LibreOffice, it came as a surprise to me when they mentioned that there is a lot of hate towards their software, saying it lacked versatility to me. 
+
+My visceral reaction was  of the standard \*nix user when anything he likes is insulted: Blame the Microsoft propoganda machine.  
+
+This is generally a fair strategy.  I mean, with [Steve Ballmer saying thinks like "Linux is a Cancer"](http://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/), and [self-commissioned studies indicating Windows is "cheaper"](http://www.computerworld.com/article/2578868/operating-systems/idc--windows-cheaper-than-linux-in-some-scenarios.html), they've done a relatively decent job ensuring that they become an easy target for any computer enthusiast.
+
+Anyway, tangents aside, I never considered any other reasons to why people might be critical to LibreOffice until last Tuesday, when coworker started explaining the advantages of LaTeX typesetting to me. 
+
+I've been using LaTeX for awhile to format equations, but it never really clicked with me that people use it for documents, though I guess it makes sense; this is my first academic job, and apparently academics get a big boner for typesetting.  
+
+So I redid my resume. 
+
+I don't think I will ever go back to word processing. 
+
+### What are the Advantages?
+#### Version Control
+
+Something that's always annoyed me about standard office-files was the fact that they're encoded binary style.  I mean, I know that DocX works by zipping XML, but the container is still binary, and doesn't version very well.  
+
+Since LaTeX is done entirely in plain text, I can happily version control my resume.  I can add and delete features items whenver I want, and have the entire thing stored on Github.  
+
+#### Scalability
+
+I feel like I have so much more ability to change and theme the document.  I can just reassign one variable and change the entire color-theme of the document.  I can dynamically scale text vertically and horizontally on the page, and I can add a new section rest-assured that my document will properly scale and handle it. LaTeX figure out page numbers for the sections, and generate table of contents for me with no work. 
+
+#### I can use Vim. 
+
+I pretty much live in the terminal nowadays.  My brain is programmed for the Vim and Tmux keystrokes, and I generally prefer that interface over some crowded GUI. 
+
+### Conclusion 
+
+I urge you guys to try out LaTeX. In a pretty short amount of time, I really have no plans on leaving.  
