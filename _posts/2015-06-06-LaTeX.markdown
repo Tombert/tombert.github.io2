@@ -5,7 +5,7 @@ title:  "I'm a little late to the bandwagon, but I'm dumping office software."
 date:   2015-06-06 12:14:02
 ---
 
-I attended the previous two Texas-Linuxfests, and had the pleasure of talking to a couple of the LibreOffice developers.  As a fan of LibreOffice, it came as a surprise to me when they mentioned that there is a lot of hate towards their software, saying it lacked versatility to me. 
+I attended the previous two Texas-Linuxfests, and had the pleasure of talking to a couple of the LibreOffice developers.  As a fan of LibreOffice, it came as a surprise to me when they mentioned that there is a lot of hate towards their software, saying it lacked versatility. 
 
 My visceral reaction was  of the standard \*nix user when anything he likes is insulted: Blame the Microsoft propoganda machine.  
 
