@@ -9,7 +9,7 @@ I attended the previous two Texas-Linuxfests, and had the pleasure of talking to
 
 My visceral reaction was that of the standard \*nix user when anything he likes is insulted: Blame the Microsoft propoganda machine.  
 
-This is generally a fair strategy.  I mean, with [Steve Ballmer saying thinks like "Linux is a Cancer"](http://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/), and [self-commissioned studies indicating Windows is "cheaper"](http://www.computerworld.com/article/2578868/operating-systems/idc--windows-cheaper-than-linux-in-some-scenarios.html), they've done a relatively decent job ensuring that they become an easy target for any computer enthusiast.
+This is generally a fair strategy.  I mean, with [Steve Ballmer saying things like "Linux is a cancer"](http://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/), and [self-commissioned studies indicating Windows is "cheaper"](http://www.computerworld.com/article/2578868/operating-systems/idc--windows-cheaper-than-linux-in-some-scenarios.html), they've done a relatively decent job ensuring that they become an easy target for any computer enthusiast.
 
 Anyway, tangents aside, I never considered any other reasons to why people might be critical to LibreOffice until last Tuesday, when coworker started explaining the advantages of LaTeX typesetting to me. 
 
