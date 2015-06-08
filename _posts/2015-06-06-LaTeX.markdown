@@ -20,6 +20,7 @@ So I redid my resume.
 I don't think I will ever go back to word processing. 
 
 ### What are the Advantages?
+
 #### Version Control
 
 Something that's always annoyed me about standard office-files was the fact that they're encoded binary style.  I mean, I know that DocX works by zipping XML, but the container is still binary, and doesn't version very well.  
