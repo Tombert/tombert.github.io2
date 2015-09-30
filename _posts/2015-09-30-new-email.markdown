@@ -20,7 +20,7 @@ As such, I've been looking for an alternative to Gmail, and (largely inspired by
 
 -------
 
-One thing that will turn a lot of people off is the fact that it costs money. but it's only 4.50 a month for the base package, and that includes mapping a custom domain name.  To get that for Google, you'll be paying five dollars a month anyway, *but still have to worry about them monitoring your data*. 
+One thing that will turn a lot of people off is the fact that it costs money. but it's only 4.50 a month for the base package, and that includes mapping a custom domain name.  To get that with Google, you'll be paying five dollars a month anyway, *but still have to worry about them monitoring your data*. 
 
 So I set that up, and now my email address is now [thomas@gebert.sexy](mailto:thomas@gebert.sexy). 
 
