@@ -2,7 +2,7 @@
 comments: true
 layout: post
 title: A series of updates in my life. 
-date: 2015-6-29 20:14:41
+date: 2015-09-29 20:14:41
 ---
 
 New York University was never a good place to work.  
