@@ -1,0 +1,27 @@
+---
+comments: true
+layout: post
+title: My Email is now Safe. 
+date: 2015-09-29 22:02:50
+---
+
+I've been a Gmail user since it was in beta, back in 2005. 
+
+I haven't really had complaints for the most part.  The service is solid, and the searching great, and they give you a ton of storage for *free*.  
+
+Free. That's an interesting word. 
+
+It's easy to get sucked in by the idea of something being "free", but I find that one seemingly obvious question goes ignored: *why?*
+
+Why would a business, an organized that survives by extracting money, and providing something for free, particularly something is big as email. 
+
+Of course, the answer is obvious: Google isn't a charity, they are havesting data, and I for one am not cool with that. 
+As such, I've been looking for an alternative to Gmail, and (largely inspired by [this](http://www.networkworld.com/article/2942161/opensource-subnet/kicking-google-out-of-my-life-part-4-goodbye-gmail.html) article), I started an account at [Kolab Now](http://kolabnow.com).  Here's a quick review. 
+
+-------
+
+One thing that will turn a lot of people off is the fact that it costs money. but it's only 4.50 a month for the base package, and that includes mapping a custom domain name.  To get that for Google, you'll be paying five dollars a month anyway, *but still have to worry about them monitoring your data*. 
+
+So I set that up, and now my email address is now [thomas@gebert.sexy](mailto:thomas@gebert.sexy). 
+
+I have no regrets. 
