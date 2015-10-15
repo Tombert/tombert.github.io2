@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: post
-title: My email is now safe. 
+title: Reflections of change. 
 date: 2015-10-15 22:02:50
 ---
 
