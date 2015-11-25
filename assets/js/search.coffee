@@ -21,6 +21,7 @@ $ ->
                                 return i
                         .map (item) ->
                                 "<div class=\"search_item\"><a href=\"#{item.link}\"><h4>#{item.title}</h4></a><div>#{item.description}</div></div>"
+                        .value()
                 .then (htmlItems) ->
                         $('#results').empty()
                         if htmlItems.length > 0
