@@ -4,12 +4,10 @@ $ ->
         lookup = (lookupText) ->
                 Promise.resolve($.get '/feed.xml')
                 .then (data) ->
-                        items = _.toArray($(data).find('item'))
-                        _.chain items, (i) ->
+                        _.chain  _.toArray($(data).find('item')), (i) ->
                                 description: $(i).find('description').text()
                                 link:  $(i).find('link').text()
                                 title: $(i).find('title').text()
-#                .then (items) ->
                         .filter (i) -> (i.description.toLowerCase().indexOf(do lookupText.toLowerCase) > -1 or i.title.toLowerCase().indexOf(lookupText.toLowerCase()) > -1 )
                         .map (i) ->
                                 i.description = $(i.description).text()
