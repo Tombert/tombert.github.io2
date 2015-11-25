@@ -4,7 +4,8 @@ $ ->
         lookup = (lookupText) ->
                 Promise.resolve($.get '/feed.xml')
                 .then (data) ->
-                        _.chain  _.toArray($(data).find('item')), (i) ->
+                        _.chain  _.toArray($(data).find('item'))
+                        .map (i) ->
                                 description: $(i).find('description').text()
                                 link:  $(i).find('link').text()
                                 title: $(i).find('title').text()
