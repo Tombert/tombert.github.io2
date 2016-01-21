@@ -11,7 +11,7 @@ I deal with Erlang on a daily basis, and on that front I couldn't be much happie
 
 Consequently, I decided an appropriately difficult but also useful project that could inevitably become a mechanism for me ignoring my wife would be porting over my ["Frameworkey"](https://github.com/tombert/frameworkeypromiseedition) framework over to Erlang.
 
-To those of you that don't know, "Frameworkey" is sort of my catch-all name for an MVC-ish framework that I write to test out a new langauge or server platform, but there are a couple tennants that I've tried to keep in all the versions:
+To those of you that don't know, "Frameworkey" is sort of my catch-all name for an MVC-ish framework that I write to test out a new language or server platform, but there are a couple tenets that I've tried to keep in all the versions:
 
 - Multiple endpoints of the same name should be separable by request method, e.g. `GET /myroute` should be different than `POST /myroute`
 - Controller actions should be specified in a config file somehow.
