@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: post
-title: I've been doing a lot of forkinng. 
+title: I've been doing a lot of forking. 
 date: 2016-01-27 23:22:50
 ---
 
