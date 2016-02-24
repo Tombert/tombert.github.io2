@@ -10,7 +10,7 @@ As I've mentioned before, I'm in the process of rewriting my web framework "Fram
 
 It's not that I went in with the mindset of "I need to take my JavaScript code and make it work with Erlang!", nor do I feel like JavaScript forces the best idioms on people, because it most certainly doesn't. I simply didn't know better, which gets to the title of this article:
 
-###Parser generators are fucking wonderful.
+### Parser generators are fucking wonderful.
 
 The parsing for Frameworkey has traditionally been something akin to:
 
