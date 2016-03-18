@@ -2,7 +2,7 @@
 layout: page
 title: My Setup 
 permalink: /my_setup/
-private: true
+private: false
 ---
 
 I've been following [The Setup](https://usesthis.com/) for about a year now, and I really enjoy seeing people's explanation about why they chose "software X" or "computer Y", so I figured I'd share mine too. 
