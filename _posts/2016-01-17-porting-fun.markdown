@@ -5,7 +5,7 @@ title: The Joys and Perils of Porting Things to Another Language.
 date: 2016-01-16 23:22:50
 ---
 
-I know, I know, it's been awhile since I've posted anything. What can I say, I've been busy, and managing a blog takes nearly the lowest priority in my life (right below cleaning my bedroom and right above my unfinished Power Rangers fafiction).
+I know, I know, it's been awhile since I've posted anything. What can I say, I've been busy, and managing a blog takes nearly the lowest priority in my life (right below cleaning my bedroom and right above my unfinished Power Rangers fanfiction).
 
 I deal with Erlang on a daily basis, and on that front I couldn't be much happier. Erlang is a wonderful language, and it gets my approval by most objective measures, but talk is cheap; it's easy to use a language when you're just fixing *someone else's* code, but how is it for making your own stuff.
 
