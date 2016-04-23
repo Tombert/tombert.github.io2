@@ -48,7 +48,7 @@ For my operating systems at home, it almost doesn't matter because of the stuff 
 
 
 ### What would be your dream setup?
-~~I'm not sure I'd change a lot...I'd like to have a slightly beefier server (though not at a cost of increased power consumption) with sixteen hard drive bays intead of eight, and 8 cores instead of 4, and 32GB of RAM. ~~
+~~I'm not sure I'd change a lot...I'd like to have a slightly beefier server (though not at a cost of increased power consumption) with sixteen hard drive bays intead of eight, and 8 cores instead of 4, and 32GB of RAM.~~
 
 My server setup is damn-near perfect now, and the only thing I'd like to do differently for my server is to make it entirely SSD based.  Right now, I'm stuck using 2.5", 5200 RPM laptop hard drives, and that's kind of ridiculous.  I might remedy this once 1TB SSDs are reasonably priced.
 
