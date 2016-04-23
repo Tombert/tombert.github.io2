@@ -14,7 +14,7 @@ My name is Thomas Gebert, and I usually go by the alias of "Tombert" on the inte
 ### What hardware do you use?
 I have a whole litany of computers I use for different things, but I'll try to give a basic summary.  
 
-I use an old Dell PowerEdge 2900 with 8GB of RAM and two Dual-Xeon CPUs as a NAS, in addition to a remote dev box and video streaming server.  It has also been known to host a Minecraft server or two. It's old, crusty, and arguably useless now, but I love it, since it enables me to have something "centralized" running on my own hardware, with eight hard drives to make sure that I don't lose something. 
+~~I use an old Dell PowerEdge 2900 with 8GB of RAM and two Dual-Xeon CPUs as a NAS, in addition to a remote dev box and video streaming server.  It has also been known to host a Minecraft server or two. It's old, crusty, and arguably useless now, but I love it, since it enables me to have something "centralized" running on my own hardware, with eight hard drives to make sure that I don't lose something.~~
 
 My daily driver computer right now is an Asus R700V, with an i7 CPU and 16GB of memory.  It's a decent laptop that I don't have a lot of problems with it (except for the annoying NVidia Optimus card inside there).  It's where I do most of my programming at home, since it's beefy enough to handle most of my experiments with video and GPU programming, but is still a laptop, so I can work on my couch, which has sort of become my impromptu office.   
 
