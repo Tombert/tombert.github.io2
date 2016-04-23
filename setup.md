@@ -9,12 +9,14 @@ I've been following [The Setup](https://usesthis.com/) for about a year now, and
 
 
 ### Who are you, and what do you do?
-My name is Thomas Gebert, and I usually go by the alias of "Tombert" on the internet.  I do a lot of things, but most of them involve breathing and programming on the computer.  Currently I'm a software engineer for [WebMD](https://webmd.com), but I've had a bunch of jobs and gigs. 
+My name is Thomas Gebert, and I usually go by the alias of "Tombert" on the internet.  I do a lot of things, but mosft of them involve breathing and programming on the computer.  Currently I'm a software engineer for [WebMD](https://webmd.com), but I've had a bunch of jobs and gigs. 
 
 ### What hardware do you use?
 I have a whole litany of computers I use for different things, but I'll try to give a basic summary.  
 
 ~~I use an old Dell PowerEdge 2900 with 8GB of RAM and two Dual-Xeon CPUs as a NAS, in addition to a remote dev box and video streaming server.  It has also been known to host a Minecraft server or two. It's old, crusty, and arguably useless now, but I love it, since it enables me to have something "centralized" running on my own hardware, with eight hard drives to make sure that I don't lose something.~~
+
+I use an HP Proliant DL585 G7 with 65GB of RAM and four 12-core Opteron CPUs as a NAS and central server.   I use it for nearly everything, since it's very fast, and is surprisingly good with power-consumption.  Having 48 cores is immensely usesful for transcoding video, but it's also useful for nearly any kind of whacky project I'm thinking of, usually a few at a time. 
 
 My daily driver computer right now is an Asus R700V, with an i7 CPU and 16GB of memory.  It's a decent laptop that I don't have a lot of problems with it (except for the annoying NVidia Optimus card inside there).  It's where I do most of my programming at home, since it's beefy enough to handle most of my experiments with video and GPU programming, but is still a laptop, so I can work on my couch, which has sort of become my impromptu office.   
 
@@ -28,9 +30,11 @@ Dear God, where the hell do I begin.
 
 On my server, I run FreeNAS, and make extremely liberal use of the jail system they have, which enables me to have a bunch of "pretend" servers to mess about with.  I run a chat server using ejabberd, a video server using Emby, and too-many-to-count dev jails "just cuz", which means a large chunk of my development tends to happen in FreeBSD-land. 
 
-In part because I so often work on a remote server, I make use of console based tools as often as I can.  My "IDE" is consequently built out of using a bunch of tmux windows and me constantly swapping back and forth between Vim and Emacs, depending on my mood.  
+In part because I so often work on a remote server, I make use of console based tools as often as I can.  My "IDE" is consequently built out of using a bunch of tmux windows and me constantly swapping back and forth between Vim and Emacs, depending on my mood. 
 
 I really like the freedom tmux brings, in that nearly everything I do can be powered via keystrokes, and the fact that I don't need to set up some elaborate X-Forwarding nonsense when I work off of my server (let's see you do *that* with your fancy IntelliJ or Visual Studio!).  Being able to SSH in, attach to my previous session, and have all my tools configured is pretty rad.    
+
+If I need a GUI, I use Xpra to handle the session on my server.  This allows me to hop between computers pretty easily, like tmux, and keeps me pretty sane.  Since I work a lot in the web, I run Firefox this way, and since I need decent-ish calendar support for work, I use Evolution as my email client on the server (though admittedly a large percentage of my email is done on my phone). 
 
 I use [Afraid.org](http://afraid.org) to forward [brucewillis.sexy](http://brucewillis.sexy) to my home IP address, so I can memorize something simple and always have a way to log into my home.  
 
@@ -40,11 +44,12 @@ I also use GNU Stow to keep my settings synchronized between computers, as well 
 
 For chat, I use Profanity for XMPP, and WeeChat for IRC.  I'm currently forced to use Skype to talk to my parents.  
 
-For my operating systems at home, it almost doesn't matter because of the stuff I rambled about above, but I run Arch Linux on my big Asus, and Ubuntu Gnome on my small laptops, though in both cases I live in the terminal for everything but web browsing, and even for that I sometimes use Elinks.  
+For my operating systems at home, it almost doesn't matter because of the stuff I rambled about above, but I run PC-BSD on my big Asus, and Ubuntu Gnome on my small laptops, though in both cases I live in the terminal for nearly everything.  
 
 
 ### What would be your dream setup?
-I'm not sure I'd change a lot...I'd like to have a slightly beefier server (though not at a cost of increased power consumption) with sixteen hard drive bays intead of eight, and 8 cores instead of 4, and 32GB of RAM. 
+~~I'm not sure I'd change a lot...I'd like to have a slightly beefier server (though not at a cost of increased power consumption) with sixteen hard drive bays intead of eight, and 8 cores instead of 4, and 32GB of RAM. ~~
+My server setup is damn-near perfect now, and the only thing I'd like to do differently for my server is to make it entirely SSD based.  Right now, I'm stuck using 2.5", 5200 RPM laptop hard drives, and that's kind of ridiculous.  I might remedy this once 1TB SSDs are reasonably priced. 
 
 I'd also like my current big laptop, but with an actually-ok-and-not-terrible screen resolution, and a regular NVidia card instead of this Optimus nonsense.  Oh, and something that can run FreeBSD without a cavalcade of driver issues would be cool, specifically so I can use ZFS on my laptop.   
 
