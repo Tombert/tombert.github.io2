@@ -9,7 +9,7 @@ I've been following [The Setup](https://usesthis.com/) for about a year now, and
 
 
 ### Who are you, and what do you do?
-My name is Thomas Gebert, and I usually go by the alias of "Tombert" on the internet.  I do a lot of things, but mosft of them involve breathing and programming on the computer.  Currently I'm a software engineer for [WebMD](https://webmd.com), but I've had a bunch of jobs and gigs. 
+My name is Thomas Gebert, and I usually go by the alias of "Tombert" on the internet.  I do a lot of things, but mosft of them involve breathing and programming on the computer.  Currently I'm a software engineer for [Jet.com](https://jet.com), but I've had a bunch of jobs and gigs. 
 
 ### What hardware do you use?
 I have a whole litany of computers I use for different things, but I'll try to give a basic summary.  
