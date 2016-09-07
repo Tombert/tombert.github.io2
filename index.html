@@ -8,7 +8,7 @@ layout: default
 
   <ul class="post-list">
     {% for post in paginator.posts %}
-      {% if !post.personal %}
+      {% if post.personal != true %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
