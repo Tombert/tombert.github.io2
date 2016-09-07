@@ -1,0 +1,36 @@
+---
+layout: default
+title: Personal
+permalink: /personal/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      {% if post.personal == true %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+      {% endif %}
+    {% endfor %}
+
+      {% if paginator.page != 1 %}
+    <a class="" href="{{paginator.previous_page_path}}">Previous Page</a> 
+      {% endif %}
+
+
+{% if paginator.page != paginator.total_pages %}
+<a class="" href="{{paginator.next_page_path}}">Next Page</a>
+{% endif %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
