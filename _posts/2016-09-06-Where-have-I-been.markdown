@@ -21,7 +21,7 @@ Oh, I forgot to mention, we were naked.  It's a long story.
 
 So we drop into a store to buy some pants, but the people there were still being all irritating, so I decided to just grab the first clothes I could find and get out of there, and so I grab a zoot-suit hanging on the rack and I'm happy enough with my decision when I discover that it comes with the tradition zoot-suit-hat. 
 
-Dick, on the other hand, was not too happy with the selection, because he said that nothing really went well with his vibe, and I get tired of waiting around, and so I just tell him to put something on so we can leave and get some ice cream or something, but Dick's having none of this, so he proceeds to torch the place down. 
+Dick, on the other hand, is not too happy with the selection, because he says that nothing really went well with his vibe, and I'm getting tired of waiting around, and so I just tell him to put something on so we can leave and get some ice cream or something, but Dick's having none of this, so he proceeds to torch the place down. 
 
 Well this upsets everyone, because it turns out that burning down Salvation Army stores is illegal in the state of New York, and everyone inside starts freaking out, and so the police arrive and start talking to us. 
 
@@ -32,9 +32,4 @@ While in jail, I start studying the lost art of ninjitsu from a person who claim
 Chang taught me how to do useful shit like killing a guy just by looking at them and also how to fill out a tax form.  As it turns out, the IRS doesn't legally count a venus fly trap as multiple mouths to feed, and it is therefore not deductible on taxes.  That was news to me, hopefully this helps you out too. 
 
 Anyway, that's where I've been for the last six months.  Overall, it's been a little boring which is why I haven't posted much about it.  
-
-
-
-
-
 
