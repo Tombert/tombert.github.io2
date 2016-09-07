@@ -10,7 +10,7 @@ permalink: /personal/
 
   <ul class="post-list">
     {% for post in paginator.posts %}
-      {% if post.personal == true %}
+      {% if post.personal %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
