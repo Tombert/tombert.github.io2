@@ -19,7 +19,7 @@ So we decide to leave my apartment, and the second we get outside, some people s
 
 Oh, I forgot to mention, we were naked.  It's a long story.  
 
-So we drop into a store to buy some pants, but the people there were still being all irritating, so I decided to just grab the first clothes I could find and get out of there, and so I grab a zoot-suit hanging on the rack and I'm happy enough with my decision when I discover that it comes with the tradition zoot-suit-hat. 
+So we drop into a store to buy some pants, but the people there were still being all irritating, so I decided to just grab the first clothes I could find and get out of there, and so I grab a zoot-suit hanging on the rack and I'm happy enough with my decision when I discover that it comes with the traditional zoot-suit-hat. 
 
 Dick, on the other hand, is not too happy with the selection, because he says that nothing really went well with his vibe, and I'm getting tired of waiting around, and so I just tell him to put something on so we can leave and get some ice cream or something, but Dick's having none of this, so he proceeds to torch the place down. 
 
