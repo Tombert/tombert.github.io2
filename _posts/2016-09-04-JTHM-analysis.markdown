@@ -1,6 +1,5 @@
 ---
 layout: post
-personal: true
 comments: true
 title:  "A Rambling and Analysis of Jhonen Vasquez's \"Johnny the Homicidal Maniac\""
 date:   2016-09-04 17:46:32
