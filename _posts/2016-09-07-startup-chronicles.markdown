@@ -36,7 +36,7 @@ To my shock and surprise, the company called back the next day for an interview.
 
 ---------------------
 
-###AMS
+### AMS
 
 Amerinational Management Services (or AMS) is a company that I had never heard of that performed a service I had never heard of: a Tae Kwon Do studio billing and management company run by Grand Master YK Kim. 
 
