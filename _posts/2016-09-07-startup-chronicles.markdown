@@ -100,4 +100,4 @@ Four months go by, and every night I am talking to Erin over the phone, and for 
 
 I decide that there's no future in Orlando, and I start applying to jobs in Dallas, where Erin lives, and much like the first, it didn't take long for me to find one: Wyndham Jade, a convention planning company. 
 
-And with that, I was moving to a city to be with a girl I was in love with that I had never met in person. 
+And with that, I was moving to a city I had never been to so I could be with a girl I was in love with that I had never met in person. 
