@@ -14,9 +14,7 @@ Staring at my report card, and seeing that I passed none of my classes (likely d
 With a final thought of relief, I down the remaining tablets in the bottle, and with that, a feeling of peace set in.  
 
 
-For about five minutes.  
-
-I get a text message from a Erin, a lady I met on the internet, a girl I had decided I was in love with from the moment I had talked to her, asking how I was feeling, and that she had a crush on me, and she hoped I was feeling better about my grades. 
+Before the last bit of sleep kicks in, I get a text message from Erin, a lady I met on the internet, a girl I had decided I was in love with from the moment I had talked to her, asking how I was feeling, and that she had a crush on me, and she hoped I was feeling better about my grades. 
 
 I realize I've made a terrible mistake, and I run to the bathroom and start gagging myself to force out the medicine, which is my first successful venture in months, and in my vomiting, confused, tired state I make a decision: I can't go back to school, I need to get a fucking job, and I need to figure out a way to meet this girl in person.  
 
