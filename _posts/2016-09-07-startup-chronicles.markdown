@@ -16,14 +16,15 @@ With a final thought of relief, I down the remaining tablets in the bottle, and 
 
 For about five minutes.  
 
-I then get a text message from a Erin, a girl I met on the internet, a girl I had decided I was in love with from the moment I had talked to her, asking how I was feeling, and that she had a crush on me, and she hoped I was feeling better about my grades. 
-
+I get a text message from a Erin, a lady I met on the internet, a girl I had decided I was in love with from the moment I had talked to her, asking how I was feeling, and that she had a crush on me, and she hoped I was feeling better about my grades. 
 
 I realize I've made a terrible mistake, and I run to the bathroom and start gagging myself to force out the medicine, which is my first successful venture in months, and in my vomiting, confused, tired state I make a decision: I can't go back to school, I need to get a fucking job, and I need to figure out a way to meet this girl in person.  
 
 Covered in sick at two in the morning, my mind felt clear, probably because I didn't have a headache, thanks to the aspirin. 
 
+
 -------------------
+
 
 At the time, I didn't know any professionals who hadn't finished college, and I start applying to every cashier job in Orlando.  
 
@@ -58,9 +59,9 @@ I immediately liked Ed, though I'm not sure he felt the same way about me.  He h
 
 The chatting goes well enough, and then Ed gives me a piece of paper with a bunch of questions about the Coldfusion language. 
 
-Now, if you, the casual reader, has never used Coldfusion, I envy you, but it's effectively a language designed for people who are used to HTML to get started with server-side web-development. 
+Now, if you, the casual reader, has never used Coldfusion, I envy you, but it's effectively a language designed for people who are used to HTML to get started with server-side web-development.  The language is structured in a series of tags, designed to look like like an XML-styled mess.  
 
-I tell you this to explain what was on the test, but twenty-one-year-old-me had no idea what he was doing. I got literally every single question on the test wrong, and the entire process was humbling.   
+I tell you this to explain what was on the test, but twenty-one-year-old-me had no idea what he was doing, a fact that became immediately obvious when I got literally every single question wrong on the test.  I'm understanding every word on the page, but the permutations and combinations of words was foreign. 
 
 With this, I figure I had blown the interview, I say goodbye, and I go home.  
 
@@ -71,13 +72,27 @@ I get drunker than I had ever been before that night, and feeling bizarrely sati
 
 -----------------------------
 
+
 As in turns out, the Tae Kwon Do industry is a great place to get started with web development.  Since the product wasn't necessarily a "technology" in the bragging sense, things like Big-O notation weren't particularly important.  If I shipped crappy code, it wasn't a big deal unless it broke.  
 
 "Welcome to startup culture" a friend would later tell me. 
 
-But there were weird eccentricities to the company.  For example, the software people literally worked out of a utility closet where the lights were turned off, along with three servers.  To clock in, I had to scan my fingerprints on a reader.  The location was above a PetCo store, and we could occasionally hear the animal noises.  It felt like the programmers were somewhat of an afterthought.  
+I learn about the bizarre qualities of Coldfusion, Flash, and the entire Adobe stack.  I learned about the web request, SQL, the network stack, and dress codes. 
+
+But there were weird eccentricities to the company.  
+
+For example, the software people literally worked out of a utility closet where the lights were turned off, along with three servers.  To clock in, I had to scan my fingerprints on a reader.  The location was above a PetCo store, and we'd occasionally hear the animal noises.  
 
 I have a bit of trouble holding back when I'm annoyed, and I make a point to tell people when I'm pissed off.  This clearly starts to irritate my coworkers, and eventually I start getting in trouble.  Instead of adjusting my behavior, I start figuring out ways to work alone.  
+
+-----------------------------
+
+
+However, good or bad, weird or not, there are simple side-effects that the garden-variety dropout that are hard to ignore.  Suddenly, every comment becomes a loaded gun of backhanded insults about your intelligence, designed to make you feel inferior.  
+
+Living with my academically-inclined family, I start developing feelings of being the "loser kid", and I start initiating fights with everyone over fairly typical, but completely mundane shit, and I constantly have feelings that I need to prove myself at work.  It's abundantly obvious to everyone, including myself, that I have some kind of stick up my ass, and I'm surprised that people keep putting up with it. 
+
+Things start to escalate, and I start calling sick into work, even when I feel fine, *especially* when I feel fine, because I can't stand to be around people.   
 
 -----------------------------
 
