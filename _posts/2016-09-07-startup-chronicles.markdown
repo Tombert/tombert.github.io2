@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "Startup Chronicles Episode One: Dropping Out and AMS"
+title:  "A Life of Startups: Episode One: Dropping Out and AMS"
 date:   2016-09-07 17:46:32
 ---
 
