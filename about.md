@@ -4,6 +4,27 @@ title: About
 permalink: /about/
 ---
 
-I'm a programmer with a lot of opinions on different things.  I will blog about them, and presumably you will read them.  Or not.  I don't really care too much.
+I'm an eccentric with several interests.  Here is a list of them. 
 
-I write about programming, about politics, about movies, and just about everything else.  I plan to get the most out of these free Jekyll blogs, damnit. 
+## Software. 
+
+Programming shit is fun, figuring out why certain code works or doesn't work is interesting, and it's also what I do fo a living, which, as a consequence, forces deep-seeded, whiney opinions on a plethora of computer-related subjects. 
+
+
+## Arguing with people. 
+
+There's no need to have a description for this.  Let's move on. 
+
+
+## Math
+
+I suppose this is related to the software thing, but I'm very-much interested in theoretical math, even though I'm too stupid to understand it most of the time. 
+
+
+
+
+-----------------------------------------------------------------
+
+
+All the opinions presented here belong to me.  I apologize if you disagree or find anything offensive about them.  
+
