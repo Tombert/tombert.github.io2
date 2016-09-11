@@ -21,8 +21,9 @@ That lattermost point has caused me to become friends with most of my neighbors,
 This ideology has been validated by a set of recent occurrences, all involving the same neighbor (who, for legal reasons, shall remain nameless). 
 
 It all started about three weeks ago, when this neighbor approached me on the street, obviously stoned out of his fucking mind, and started preaching to me about Jesus, which isn't particularly weird in this area.  Washington Heights is an incredibly Catholic area, and most of my neighbors make that point abundantly clear.   
+
 Anyway, he starts talking about Jesus or something, I start arguing (see: previous point about misanthropy), and it's friendly enough, and it evolves into regular conversation, and the topic of what we do for a living comes up.  
- 
+
 He explains that he does "deliveries", which, from my admittedly stupid perspective, is code for dealing drugs.  This guy is perpetually stoned, his eyes are yellow, and frankly, I would have been surprised if he had said anything other than "deliveries".
 
 I then explain that I program computers for a living, and he asks "Oh!  Do you make apps?". 
